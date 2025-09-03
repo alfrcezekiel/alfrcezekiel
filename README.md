@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kiel a passionate Full Stack Developer constantly learning new technologies,<br>experiences and skills and seeking opportunities to grow my skills in real-world projects.
+Hi, I'm Kiel a passionate Full Stack Developer constantly learning new technologies, experiences and skills and seeking opportunities to grow my skills in real-world projects.
 
 
 # 💻 Tech Stack:
