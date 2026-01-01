@@ -1,1 +1,1 @@
-Hi, I'm kiel a passionate Full Stack Developer based in the Iloilo City, Philippines. Strongly interested in software development, gaining real-world projects, having a side quest doing personal projects, constantly adpating new technologies that are popular in the industry standard.
+Hi, I'm Kiel a passionate Full Stack Developer based in the Iloilo City, Philippines. Strongly interested in software development, gaining real-world projects, having a side quest doing personal projects, constantly adpating new technologies that are popular in the industry standard.
